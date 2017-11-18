@@ -1,0 +1,27 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "sass practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexxx91/Landing-Page.git"
+  },
+  "keywords": [
+    "sass",
+    "gulp"
+  ],
+  "author": "Alex Korach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexxx91/Landing-Page/issues"
+  },
+  "homepage": "https://github.com/alexxx91/Landing-Page#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
